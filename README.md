@@ -8,7 +8,7 @@ Domain:Python Programming
 
 Duration:August to September 2024
 
-Mentor:
+Mentor:NEELA SANTHOSH KUMAR
 
 OVERVIEW OF THE PROJECT
 
@@ -43,3 +43,9 @@ It will provide appropriate messages to the user and prompt them to try again.
 The program can be structured using functions to handle different parts of the calculation, making it easier to maintain and extend in the future.
 
 This project serves as a foundation for understanding user input, basic arithmetic operations, and error handling in Python. It can be extended with additional features such as more operations, input validation, or a graphical user interface (GUI) in future iterations.
+
+OUTPUT:
+![Screenshot (132)](https://github.com/user-attachments/assets/f2f4e4f0-4aa8-48dd-8569-6fc0cb9a0f27)
+
+
+
