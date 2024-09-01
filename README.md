@@ -1,8 +1,13 @@
 Name:ARUNALDIN SUGIN J
+
 Company:CODTECH IT SOLUTIONS
+
 ID:CT08DS6768
+
 Domain:Python Programming
+
 Duration:August to September 2024
+
 Mentor:
 
 OVERVIEW OF THE PROJECT
